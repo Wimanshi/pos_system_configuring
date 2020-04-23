@@ -4,7 +4,11 @@ import { StyleSheet, View, Image, Text, KeyboardAvoidingView } from 'react-nativ
 export default class Profile extends Component {
     render () {
         return (
-            <View>Hii</View>
+            <View>
+                <Text>
+                    Hii
+                </Text>
+            </View>
         );
     }
 }
